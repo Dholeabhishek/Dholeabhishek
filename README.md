@@ -10,4 +10,4 @@ Detail-oriented QA professional with expertise in both manual and automation tes
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,selenium,git,github,jenkins,eclipse,vscode,idea,cypress,githubactions,gherkin,maven,postman,stackoverflow)](https://skillicons.dev)
 
 # Connect with me
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhishek-dhole-723001129/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhishek-dhole-723001129/) [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
