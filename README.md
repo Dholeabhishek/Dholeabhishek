@@ -1,10 +1,9 @@
 
 <h1>Abhishek Dhole</h3>
 
-<h3>Experienced Manual & Automation Tester | Java Developer  ⚡</h3>
+<h3>Experienced Manual & Automation Tester  ⚡</h3>
 
-
-Dedicated to delivering high-quality software through rigorous manual testing and efficient automation solutions. Skilled in Java programming for automation scripts and proficient in various test automation tools. Passionate about improving software quality, optimizing testing processes, and collaborating with development teams to ensure seamless product delivery.
+Detail-oriented QA professional with expertise in both manual and automation testing. Proficient in Java for writing robust automation scripts and hands-on experience with tools like Selenium, TestNG, Cucumber, Maven, Jenkins, Git, Allure, and ExtentReports. Skilled in test case design, defect tracking, and API testing using Postman and REST Assured. Passionate about delivering high-quality software, improving testing efficiency, and working closely with cross-functional teams in Agile environments to ensure smooth and timely product releases.
 
 # Tools and Technologies
 
